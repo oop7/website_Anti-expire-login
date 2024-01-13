@@ -179,3 +179,13 @@ body{
 .video{
   padding: 20px;
 }
+.div1{
+  background-color: red;
+  color: white;
+  border-radius: 6px;
+  width: 30%;
+  height: 300px;
+  position: relative;
+  left:69%;
+  bottom:700px;
+}
